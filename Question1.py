@@ -17,3 +17,5 @@ numbers = [0, 21, 78, 19, 90, 13]
 print(solution(numbers, 21))
 print(solution(numbers, 25))
 print(solution(numbers, 103))
+
+# Time Complexity of the Code : O(n)
